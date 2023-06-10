@@ -62,7 +62,7 @@ Building your changes
 
 Start your React Server
     
-     $ npm run start
+     $ npm start
 
 To run and monitor your changes while coding, use "Live server extension"
 
